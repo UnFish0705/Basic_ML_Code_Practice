@@ -1,5 +1,5 @@
 # Basic_ML_Code_Practice
-Pratice for ML course in NCTU.
+Pratice for ML course in NCTU.  
 希望能在Final_Project前擁有基本的ML-coding能力 
 
 ## Day_1_Getting_Started
