@@ -3,7 +3,7 @@ Pratice for ML course in NCTU.
 希望能在Final_Project前擁有基本的ML-coding能力 
 
 ## Day_1_Getting_Started
-Search some resources through Google.
+Search some resources through Google./n
 Pandas:
 https://pandas.pydata.org/docs/getting_started/10min.html
 Scikit-Learn:
