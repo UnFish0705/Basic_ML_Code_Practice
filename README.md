@@ -1,6 +1,11 @@
 # 2020_Basic_ML_Code_Practice
 Pratice for ML course in NCTU.  
-Environment: Python 3.7 & Visaul Studio  
+
+## Environment
+* Python 3.7  
+* Visaul Studio
+* Package: numpy, pandas, matplotlib
+
 ## Day 1 Getting Started
 * Search some resources through Google.  
 * Pandas:  
@@ -16,4 +21,4 @@ Environment: Python 3.7 & Visaul Studio
 * Learn some basic pandas functions
 * Learn some basic sklearn functions
 * Learn basic Datapreprocessing  
-  →[Day2](https://github.com/UnFish0705/Basic_ML_Code_Practice/blob/master/Code/Pandas.md)
+* Code [Day2](https://github.com/UnFish0705/Basic_ML_Code_Practice/blob/master/Code/Pandas.md)
