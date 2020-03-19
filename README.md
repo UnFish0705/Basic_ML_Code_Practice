@@ -10,6 +10,7 @@ https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model
 Some good references from github:  
 https://github.com/Avik-Jain/100-Days-Of-ML-Code  
 https://github.com/dolittle007/awesome-bio/blob/master/machine-learning.md  
+https://github.com/bighunter513/machine-learning-python
 
 ## Day 2 Pandas Learning & Sklearn Learning & Datapreprocessing
 * Learn some basic pandas
