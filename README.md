@@ -21,4 +21,4 @@ Pratice for ML course in NCTU.
 * Learn some basic pandas functions
 * Learn some basic sklearn functions
 * Learn basic Datapreprocessing  
-* Code [Day2](https://github.com/UnFish0705/Basic_ML_Code_Practice/blob/master/Code/Pandas.md)
+* Code [Day2](https://github.com/UnFish0705/Basic_ML_Code_Practice/blob/master/Code/Datapreprocessing.md)
