@@ -16,4 +16,4 @@ Environment: Python 3.7 & Visaul Studio
 * Learn some basic pandas functions
 * Learn some basic sklearn functions
 * Learn basic Datapreprocessing  
-  Code for [Day2](https://github.com/UnFish0705/Basic_ML_Code_Practice/blob/master/Code/Pandas.md)
+  →[Day2](https://github.com/UnFish0705/Basic_ML_Code_Practice/blob/master/Code/Pandas.md)
