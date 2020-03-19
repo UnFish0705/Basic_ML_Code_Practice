@@ -12,5 +12,5 @@ Some good references from github:
 https://github.com/Avik-Jain/100-Days-Of-ML-Code  
 https://github.com/dolittle007/awesome-bio/blob/master/machine-learning.md  
 
-## Day 2 Pandas Learning  
+## Day 2 Pandas Learning & Sklearn learning
 
