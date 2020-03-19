@@ -1,4 +1,4 @@
-# Basic_ML_Code_Practice
+# 2020_Basic_ML_Code_Practice
 Pratice for ML course in NCTU.  
  
 ## Day 1 Getting Started
