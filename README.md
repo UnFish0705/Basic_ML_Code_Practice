@@ -13,7 +13,7 @@ Environment: Python 3.7 & Visaul Studio
   https://github.com/bighunter513/machine-learning-python
 
 ## Day 2 Pandas Learning & Sklearn Learning & Datapreprocessing
-* Learn some basic pandas
-* Learn some basic sklearn
-* Learn some Datapreprocessing  
+* Learn some basic pandas functions
+* Learn some basic sklearn functions
+* Learn basic Datapreprocessing  
   Code for [Day2](https://github.com/UnFish0705/Basic_ML_Code_Practice/blob/master/Code/Pandas.md)
