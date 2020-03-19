@@ -1,6 +1,6 @@
 # 2020_Basic_ML_Code_Practice
 Pratice for ML course in NCTU.  
- 
+Environment: Python 3.7 & Visaul Studio  
 ## Day 1 Getting Started
 Search some resources through Google.  
 Pandas:  
