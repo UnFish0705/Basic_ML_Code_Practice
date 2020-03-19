@@ -52,14 +52,18 @@ Y =  labelencoder_Y.fit_transform(Y)
 ```
 
 ## Step 5: Splitting Datasets
+```python
 from sklearn.cross_validation import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split( X , Y , test_size = 0.2, random_state = 0)
+```
 
 ## Step 6: Feature Scaling
+```python
 from sklearn.preprocessing import StandardScaler
 sc_X = StandardScaler()
 X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.fit_transform(X_test)
+```
 
 ## Reference
 https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md 
